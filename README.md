@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Lucas Bettera</h1>
 <h3 align="center">Desarrollador Web en constante aprendizaje</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me puedes encontrar en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-bettera-83619920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-bettera-83619920b/" height="30" width="40" /></a>
 </p>
