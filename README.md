@@ -2,8 +2,7 @@
 <h3 align="left">Desarrollador Web en constante aprendizaje</h3>
 
 <h3>Acerca de mí</h3>
-<p>En mi vida escogi estudiar diseño multimedial en primera instacia, pero me di cuenta que me encata el diseño y programacion web, entonces desicdí
-enmprender el camino de aprender las tecnologias necesaria y adquirir la habilidades que me permitiran poder desembolverme como un profesional en el ambito del Front-End.
+<p>En mi vida escogí estudiar diseño multimedial en primera instancia, pero me di cuenta que me enceta el diseño y programación web, entonces decidí emprender el camino de aprender las tecnologías necesaria y adquirir la habilidades que me permitirán poder desenvolverme como un profesional en el ámbito del Front-End.
 </p>
 <h3 align="left">Me puedes encontrar en:</h3>
 <p align="left">
