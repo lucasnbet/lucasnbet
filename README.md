@@ -29,19 +29,18 @@ I am a Senior System Architect and Full Stack Developer specializing in high-per
 **Infrastructure & Cloud (Microsoft & Linux)**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sharepoint/microsoft_sharepoint-icon.svg" alt="sharepoint" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SharePoint-%230078D4.svg?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="sharepoint" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wpengine/wpengine-icon.svg" alt="wpengine" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" alt="hostinger" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/WPEngine-%2340BAEF.svg?style=for-the-badge&logo=wpengine&logoColor=white" alt="wpengine" height="40"/>
+  <img src="https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="hostinger" height="40"/>
 </p>
 
 **DevOps & Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
 ---
-
