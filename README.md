@@ -45,7 +45,3 @@ I am a Senior System Architect and Full Stack Developer specializing in high-per
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasnbet&show_icons=true&theme=radical" alt="Lucas's Stats" />
-</p>
