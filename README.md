@@ -32,13 +32,13 @@ I am a Senior System Architect and Full Stack Developer specializing in high-per
   <img src="https://www.vectorlogo.zone/logos/microsoft_sharepoint/microsoft_sharepoint-icon.svg" alt="sharepoint" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wpengine/wpengine-icon.svg" alt="wpengine" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" alt="hostinger" width="40" height="40"/>
 </p>
 
 **DevOps & Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wpengine/wpengine-icon.svg" alt="wpengine" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
@@ -47,5 +47,5 @@ I am a Senior System Architect and Full Stack Developer specializing in high-per
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbettera&show_icons=true&theme=radical" alt="Lucas's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasnbet&show_icons=true&theme=radical" alt="Lucas's Stats" />
 </p>
